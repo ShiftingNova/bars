@@ -1,3 +1,4 @@
+#Jordan Walker CSC110 The code create a center version of lab and rab using twoinput instead of one
 code = str(input("Enter bar string:\n"))
 print("+------------------+")
 i = 0
