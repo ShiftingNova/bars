@@ -1,4 +1,4 @@
- code = str(input("Enter bar string:\n"))
+ code = str(input("Enter bar string:"))
 print("+------------------+")
 i = 0
 while i<len(code):
